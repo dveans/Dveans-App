@@ -27,7 +27,7 @@ A powerful and secure password generator that helps you create strong and memora
 
 ### Contact Us
 
-For any questions or support, please contact us at: **[ваша-контактна-пошта@example.com]**
+For any questions or support, please contact us at: **dveansapp@gmail.com**
 
 ---
 &copy; 2025 Dveans App. All Rights Reserved.
