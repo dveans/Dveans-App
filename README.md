@@ -17,7 +17,7 @@ This repository hosts public assets and legal documents for applications develop
 
 A powerful and secure password generator that helps you create strong and memorable passwords for all your online accounts. Available on Android.
 
-* **[Privacy Policy for PassGen Pro](https://dvean.github.io/privacy_policy.html)**
+* **[Privacy Policy for PassGen Pro](https://github.com/dveans/Dveans-App/blob/main/privacy_policy.html)**
 * **Get it on Google Play:** (Coming soon)
 * **Get it on Amazon Appstore:** (Coming soon)
 
