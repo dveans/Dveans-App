@@ -1,3 +1,8 @@
+# Dveans App
+
+---
+*Creating simple and useful mobile applications.*
+
 ### About This Repository
 
 This repository hosts public assets and legal documents for applications developed by Dveans App. This includes:
